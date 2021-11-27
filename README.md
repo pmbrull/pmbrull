@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 -->
 
 # My statistics in Github
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmbrull&layout=compact&theme=prussian&hide_border=true)
 [![Hua's github stats](https://github-readme-stats.vercel.app/api?username=pmbrull&show_icons=true&theme=prussian&count_private=true)](https://github.com/pmbrull/github-readme-stats)
 

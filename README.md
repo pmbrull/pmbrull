@@ -1,4 +1,7 @@
-### Hi there 👋
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hi there!
+
+[![Linkedin: pmbrull](https://img.shields.io/badge/-pmbrull-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/pmbrull)](www.linkedin.com/in/pmbrull)
+[![GitHub pmbrull](https://img.shields.io/github/followers/pmbrull?label=follow&style=social)](https://github.com/pmbrull)
 
 <!--
 **pmbrull/pmbrull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

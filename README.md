@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
-[![Linkedin: pmbrull](https://img.shields.io/badge/-pmbrull-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/pmbrull)](www.linkedin.com/in/pmbrull)
+[![Linkedin: pmbrull](https://img.shields.io/badge/-pmbrull-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/pmbrull)](https://linkedin.com/in/pmbrull)
 [![GitHub pmbrull](https://img.shields.io/github/followers/pmbrull?label=follow&style=social)](https://github.com/pmbrull)
 
 <!--

@@ -3,7 +3,7 @@
 [![Linkedin: pmbrull](https://img.shields.io/badge/-pmbrull-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/pmbrull)](https://linkedin.com/in/pmbrull)
 [![GitHub pmbrull](https://img.shields.io/github/followers/pmbrull?label=follow&style=social)](https://github.com/pmbrull)
 
-Sometimes I write at https://blog.metadata.coffee/ & https://blog.open-metadata.org/
+Sometimes I write at https://pmbrull.me & https://blog.open-metadata.org/
 
 <!--
 **pmbrull/pmbrull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
